@@ -8,7 +8,7 @@ However, due to proprietary restrictions and confidentiality agreements, data fr
 
 This ensures compliance with data usage policies while enabling the community to leverage a significant portion of the data for exploration and benchmarking.
 
-The public data can be accessed from XXXX.
+The public data are continuously being uploaded.
 
 ## Downstream benchmarks for RingMoE evaluation
 
